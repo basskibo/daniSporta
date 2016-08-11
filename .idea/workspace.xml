@@ -2,72 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e7a4951-00a3-4b4d-ad28-cdb1c5aa852c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/port-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-1/portfolio-img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/port-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/face_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/face_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/face_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/face_4.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery_basket.html" afterPath="$PROJECT_DIR$/gallery_basket.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery_fudbal.html" afterPath="$PROJECT_DIR$/gallery_fudbal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery_nozni.html" afterPath="$PROJECT_DIR$/gallery_nozni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misija.html" afterPath="$PROJECT_DIR$/misija.html" />
     </list>
     <ignored path="dani_sporta_new_one.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -373,7 +308,7 @@
       <option name="presentableId" value="Default" />
       <updated>1470863086030</updated>
       <workItem from="1470863090907" duration="7618000" />
-      <workItem from="1470876198434" duration="2513000" />
+      <workItem from="1470876198434" duration="2679000" />
     </task>
     <task id="LOCAL-00001" summary="galerije">
       <created>1470876212457</created>
@@ -382,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470876212457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="svega i svacega">
+      <created>1470878901361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470878901361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10131000" />
+    <option name="totallyTimeSpent" value="10297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="23" width="1920" height="977" extended-state="6" />
@@ -423,7 +365,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="galerije" />
-    <option name="LAST_COMMIT_MESSAGE" value="galerije" />
+    <MESSAGE value="svega i svacega" />
+    <option name="LAST_COMMIT_MESSAGE" value="svega i svacega" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
