@@ -396,6 +396,17 @@ header {
   	-webkit-box-shadow: 0 3px 3px -3px rgba(0, 0, 0, 0.2);
 }
 
+.iguanasidebar{
+	width: 25%;
+	float: right;
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    padding-top: 8%;
+}
+
 .top-bar {
 	background-color: #fff;
 	border-bottom: 1px solid #f2f2f2;
@@ -3926,6 +3937,7 @@ ul.post-meta li, ul.post-meta li a {
 
 .sidebar {
     margin-bottom: 30px;
+    padding-top: 6%
 }
 
 .sidebar a {
